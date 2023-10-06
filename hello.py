@@ -1,0 +1,3 @@
+#! <- SheBang
+# <- Comentário 
+print("Thiago")
